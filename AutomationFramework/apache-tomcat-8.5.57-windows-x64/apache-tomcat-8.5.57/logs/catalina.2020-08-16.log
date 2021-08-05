@@ -1,0 +1,82 @@
+16-Aug-2020 21:07:33.637 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.57
+16-Aug-2020 21:07:33.644 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 30 2020 21:49:10 UTC
+16-Aug-2020 21:07:33.646 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.57.0
+16-Aug-2020 21:07:33.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+16-Aug-2020 21:07:33.648 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+16-Aug-2020 21:07:33.649 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+16-Aug-2020 21:07:33.649 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_231\jre
+16-Aug-2020 21:07:33.650 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_231-b11
+16-Aug-2020 21:07:33.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+16-Aug-2020 21:07:33.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57
+16-Aug-2020 21:07:33.651 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57
+16-Aug-2020 21:07:33.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\conf\logging.properties
+16-Aug-2020 21:07:33.652 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Aug-2020 21:07:33.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+16-Aug-2020 21:07:33.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Aug-2020 21:07:33.653 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+16-Aug-2020 21:07:33.654 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57
+16-Aug-2020 21:07:33.655 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57
+16-Aug-2020 21:07:33.666 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\temp
+16-Aug-2020 21:07:33.668 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+16-Aug-2020 21:07:33.668 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+16-Aug-2020 21:07:33.669 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+16-Aug-2020 21:07:33.683 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+16-Aug-2020 21:07:33.942 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+16-Aug-2020 21:07:34.285 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+16-Aug-2020 21:07:34.318 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1609 ms
+16-Aug-2020 21:07:34.376 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+16-Aug-2020 21:07:34.377 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.57
+16-Aug-2020 21:07:34.410 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\docs]
+16-Aug-2020 21:07:34.875 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\docs] has finished in [475] ms
+16-Aug-2020 21:07:34.876 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\examples]
+16-Aug-2020 21:07:35.670 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\examples] has finished in [794] ms
+16-Aug-2020 21:07:35.671 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\host-manager]
+16-Aug-2020 21:07:35.716 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\host-manager] has finished in [45] ms
+16-Aug-2020 21:07:35.721 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\manager]
+16-Aug-2020 21:07:35.777 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\manager] has finished in [56] ms
+16-Aug-2020 21:07:35.780 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\ROOT]
+16-Aug-2020 21:07:35.827 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\ROOT] has finished in [47] ms
+16-Aug-2020 21:07:35.831 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+16-Aug-2020 21:07:35.853 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1533 ms
+16-Aug-2020 21:13:03.532 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/8.5.57
+16-Aug-2020 21:13:03.536 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Jun 30 2020 21:49:10 UTC
+16-Aug-2020 21:13:03.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 8.5.57.0
+16-Aug-2020 21:13:03.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+16-Aug-2020 21:13:03.538 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+16-Aug-2020 21:13:03.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+16-Aug-2020 21:13:03.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_231\jre
+16-Aug-2020 21:13:03.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_231-b11
+16-Aug-2020 21:13:03.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+16-Aug-2020 21:13:03.539 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57
+16-Aug-2020 21:13:03.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57
+16-Aug-2020 21:13:03.540 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\conf\logging.properties
+16-Aug-2020 21:13:03.541 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+16-Aug-2020 21:13:03.541 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+16-Aug-2020 21:13:03.541 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+16-Aug-2020 21:13:03.541 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+16-Aug-2020 21:13:03.542 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57
+16-Aug-2020 21:13:03.543 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57
+16-Aug-2020 21:13:03.544 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\temp
+16-Aug-2020 21:13:03.544 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+16-Aug-2020 21:13:03.545 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+16-Aug-2020 21:13:03.546 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+16-Aug-2020 21:13:03.556 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+16-Aug-2020 21:13:03.775 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+16-Aug-2020 21:13:04.100 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+16-Aug-2020 21:13:04.121 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1353 ms
+16-Aug-2020 21:13:04.174 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+16-Aug-2020 21:13:04.174 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.57
+16-Aug-2020 21:13:04.223 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\webapp.war]
+16-Aug-2020 21:13:04.743 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\webapp.war] has finished in [519] ms
+16-Aug-2020 21:13:04.745 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\docs]
+16-Aug-2020 21:13:04.797 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\docs] has finished in [52] ms
+16-Aug-2020 21:13:04.798 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\examples]
+16-Aug-2020 21:13:05.511 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\examples] has finished in [713] ms
+16-Aug-2020 21:13:05.514 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\host-manager]
+16-Aug-2020 21:13:05.563 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\host-manager] has finished in [48] ms
+16-Aug-2020 21:13:05.563 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\manager]
+16-Aug-2020 21:13:05.604 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\manager] has finished in [40] ms
+16-Aug-2020 21:13:05.604 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\ROOT]
+16-Aug-2020 21:13:05.643 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\navee\AutomationFramework\apache-tomcat-8.5.57-windows-x64\apache-tomcat-8.5.57\webapps\ROOT] has finished in [39] ms
+16-Aug-2020 21:13:05.647 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+16-Aug-2020 21:13:05.664 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1541 ms

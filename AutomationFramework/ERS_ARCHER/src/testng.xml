@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name = "TestNG Session Automation Suite">
+	<test name = "Different Featutres of TestNG framework">
+	
+	<parameter name="url" value = "https:google.com"/>
+	<parameter name="chromeDriverPath" value = "D:\\Naveen\\Software\\chromedriver.exe"/>
+	
+	<classes>
+		<class name = "com.test.ExceptionTimoutTest"/>
+	</classes>
+	</test>
+</suite>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2578" started-at="2020-10-02T21:56:01 IST" finished-at="2020-10-02T21:56:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2578" started-at="2020-10-02T21:56:01 IST" finished-at="2020-10-02T21:56:04 IST">
+      <class name="DynamicJson">
+        <test-method status="PASS" signature="addBooking(java.lang.String, java.lang.String)[pri:0, instance:DynamicJson@371a67ec]" name="addBooking" duration-ms="2213" started-at="2020-10-02T21:56:01 IST" data-provider="getData" finished-at="2020-10-02T21:56:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chetan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBooking -->
+        <test-method status="PASS" signature="addBooking(java.lang.String, java.lang.String)[pri:0, instance:DynamicJson@371a67ec]" name="addBooking" duration-ms="155" started-at="2020-10-02T21:56:04 IST" data-provider="getData" finished-at="2020-10-02T21:56:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[viswas]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12352]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBooking -->
+        <test-method status="PASS" signature="addBooking(java.lang.String, java.lang.String)[pri:0, instance:DynamicJson@371a67ec]" name="addBooking" duration-ms="166" started-at="2020-10-02T21:56:04 IST" data-provider="getData" finished-at="2020-10-02T21:56:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Deepak]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[908638]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBooking -->
+      </class> <!-- DynamicJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
